@@ -1,0 +1,18 @@
+{
+  "openai": {
+      "api_key": "***************************",
+      "model": "gpt-4"
+  },
+  "hubspot": {
+      "api_key": "***************************",
+      "base_url": "https://api.hubapi.com"
+  },
+  "elastic_email": {
+      "api_key": "*****************************",
+      "base_url": "https://api.elasticemail.com/v2"
+  },
+  "notification_email": {
+      "from_email": "your_email@domain.com",
+      "from_name": "CRM Automation System"
+  }
+}
